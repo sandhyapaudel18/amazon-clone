@@ -1,0 +1,290 @@
+* {
+   
+    margin:0px;
+    font-family:Arial;
+    border:border-box;
+    
+}
+.navigation {
+    height:60px;
+    background-color:#0F1111;
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.navlogo {
+    height:50px;
+    width:113px;
+
+}
+.logo {
+    background-image: url(./amazon_logo.png);
+    height:50px;
+    width:100%;
+    background-size: cover;
+    
+}
+.border{
+
+    border:1px solid transparent;
+    
+}
+.border:hover{
+    border: 1px solid white;
+}
+
+.add-icon{
+    display:flex;
+    align-items: center;
+}
+#one{
+    color:#cccccc;
+    font-size:0.85em;
+    margin-left: 15px;
+ 
+}
+#two{
+    color:white;
+    font: size 1em;
+    margin-left:3px;
+
+}
+
+.navsearch{
+    background-color: rgb(10, 10, 10);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height:40px;
+    width:620px;   
+    border-radius:4px;
+
+}
+/* .navsearch:hover{
+    border:2px solid white;
+} */
+
+
+select{
+background-color:#f3f3f3;
+width:50px;
+height:42px;
+text-align: center;
+border-top-left-radius: 4px;
+border-bottom-left-radius:4px;
+border:none;
+}
+
+input{
+    width: 100%;
+    height:40px;
+    font-size: 1rem;
+    border:none;
+    padding-left: 10px;
+
+}
+
+
+.searchbar{
+    width:45px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    background-color:#febd68;
+    height:42px;
+    border-top-right-radius: 4px;
+   border-bottom-right-radius:4px;
+   color:#0f1111;
+
+}
+
+span{
+    font-size: 0.7rem;
+}
+
+ .country {
+    margin-left:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:17px;
+    width:21px;
+}
+
+
+#second{
+    font-size: 0.85rem;
+    font-weight:700;
+    text-align: center;
+}
+
+
+#yay{
+    font-size: 0.85rem;
+    font-weight:700;
+    text-align: center;
+
+}
+.logo{
+    margin-right: 15px;
+}
+
+.logs i{
+    font-size: 30px;
+    
+    
+}
+.logs{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+/* //panel bar */
+.panel{
+    background-color: #222f3d;
+    height:38px;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+    align-items: center;
+}
+.panelopt{
+width:70%;
+font-size: 0.85rem;
+
+
+}
+.panelopt p{
+    margin-left: 15px;
+    display: inline;
+}
+.paneldiv{
+font-size: 0.9rem;
+font-weight: 700;
+}
+
+/* main section */
+.main
+{
+    background-image:url(./hero1.jpg);
+    background-size: cover;
+    height: 250px;
+
+    
+}
+/* photos */
+.buy{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color: #f7f1ed;
+}
+
+.box{
+    height:400px;
+    /* border:2px solid black; */
+    width:23% ;
+    background-color: white; 
+    padding:20px 0px 15px;
+   margin-top:15px;
+
+}
+
+.boxcontent{
+margin-left:10px;
+margin-right:10px;
+
+}
+.box h2{
+    font-size: 21px;
+}
+
+.img{
+    background-image: url(./box5_image.jpg);
+    height:300px;
+    background-size: cover;
+    margin-top:1rem;
+    margin-bottom:1rem;  
+}
+.imgu{
+    background-image: url(./elect.jpg);
+     height:300px;
+    background-size: cover;
+    margin-top:1rem;
+    margin-bottom:1rem; 
+
+}
+.imgm{
+    background-image: url(./XCM_CUTTLE_1469391_2584745_758x608_2X_en_US._SY608_CB609304299_.jpg);
+    height:300px;
+   background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem; 
+
+}
+.imgw{
+    background-image: url(./box6_image.jpg);
+    height:300px;
+   background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem; 
+
+}
+.boxcontent p{
+    color:#007185;
+    font-size: 13px;
+}
+.boxcontent p:hover{
+    color:orangered;
+    text-decoration: underline;
+}
+
+.imgk{
+    background-image: url(./home\ refresh\ idea.jpg);
+    height:300px;
+   background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem;
+}
+   .imge
+   {
+    background-image: url(./kindle\ e\ reader.jpg);
+    height:300px;
+   background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem; 
+
+} 
+.imgg
+{
+    background-image: url(./merch.jpg);
+    height:300px;
+    background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem; 
+
+}
+
+
+.imgt
+{
+    background-image: url(./deal.jpg);
+    height:300px;
+   background-size: cover;
+   margin-top:1rem;
+   margin-bottom:1rem; 
+
+}
+
+.footerpanel1{
+    height:125px;
+    width:980px;
+    margin-top:1rem;
+}
+.recom{
+
+    color:black;
+
+}
