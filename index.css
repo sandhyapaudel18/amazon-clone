@@ -333,9 +333,6 @@ flex-direction: column;
     flex-direction: row;
     justify-content:space-evenly;
     flex-wrap: nowrap;
-
-   
-  
  }
 
  .get1{
@@ -347,7 +344,7 @@ flex-direction: column;
 }
 .get1 p{
     color:white;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
    
 
@@ -355,7 +352,7 @@ flex-direction: column;
  .get1 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     padding:12px 0px 0px 0px;
  }
 
@@ -368,7 +365,7 @@ flex-direction: column;
 }
 .get2 p{
     color:white;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
    
 
@@ -376,7 +373,7 @@ flex-direction: column;
  .get2 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     padding:12px 0px 0px 0px;
  }
 
@@ -389,7 +386,7 @@ flex-direction: column;
 }
 .get3 p{
     color:white;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
    
 
@@ -397,7 +394,7 @@ flex-direction: column;
  .get3 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     padding:12px 0px 0px 0px;
  }
  .get4{
@@ -409,7 +406,7 @@ flex-direction: column;
 }
 .get4 p{
     color:white;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: bold;
 
 
@@ -417,7 +414,7 @@ flex-direction: column;
  .get4 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 14px;
     padding:12px 0px 0px 0px;
  }
 
