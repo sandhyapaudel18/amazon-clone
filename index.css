@@ -293,15 +293,34 @@ margin-right:10px;
     justify-content: center;
     align-items:center;
 }
+.rect button{
+    height:28px;
+    width:230px;
+    font-size: 12px;
+    background-color: #febd68;
+    border:1px solid #febd68;
+    font-weight: bold;
 
-/* .back{
-    margin-top:-43px;
+}
+#new{
+    font-size: 11px;
+}
+#new a{
+    text-decoration: none;
+}
+
+
+.back{
+    margin-top:-25px;
     background-color: #37475a;
     color:white;
     height:51px;
+    display: flex;
     justify-content: center;
     align-items: center;
-    display: flex;
+
     font-size:13px;
-} */
- 
+}
+ .foot2 {
+
+ }
