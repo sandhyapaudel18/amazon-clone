@@ -325,53 +325,58 @@ margin-right:10px;
 height:540px;
 width:100%;
 background-color: #232F3E;
-
+display: flex;
+flex-direction: column;
  }
- .rect{
-    height:
+ .rect2{
     display: flex;
-     flex-direction: column;
-     justify-content:center;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+
+   
   
  }
 
- .get ul{
-    display: flex;
-    flex-direction: column;
-    padding:10px 0px 0px 0px;
- }
- .get ul p{
-    color:white;
-    font-size: 16px;
-    font-weight: bold;
-    padding:35px 0px 10px 0px;
-
- }
- .get ul a{
-    color:#DDDDDD;
-    text-decoration: none;
-    font-size: 14px;
-    padding:12px 0px 0px 0px;
- }
-
-.get2{
+ .get1{
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    padding:10px 0px 0px 0px;
+    padding:43px 0px 0px 0px;
+
+}
+.get1 p{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+   
+
+ }
+ .get1 a{
+    color:#DDDDDD;
+    text-decoration: none;
+    font-size: 15px;
+    padding:12px 0px 0px 0px;
+ }
+
+ .get2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    padding:43px 0px 0px 0px;
 
 }
 .get2 p{
     color:white;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
-    padding:35px 0px 10px 0px;
+   
 
  }
  .get2 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 15px;
     padding:12px 0px 0px 0px;
  }
 
@@ -379,40 +384,40 @@ background-color: #232F3E;
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    padding:10px 0px 0px 0px;
+    padding:43px 0px 0px 0px;
 
 }
 .get3 p{
     color:white;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
-    padding:35px 0px 10px 0px;
+   
 
  }
  .get3 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 15px;
     padding:12px 0px 0px 0px;
  }
  .get4{
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    padding:10px 0px 0px 0px;
+    padding:43px 0px 0px 0px;
 
 }
 .get4 p{
     color:white;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
-    padding:35px 0px 10px 0px;
+
 
  }
  .get4 a{
     color:#DDDDDD;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 15px;
     padding:12px 0px 0px 0px;
  }
 
