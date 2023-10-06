@@ -284,29 +284,17 @@ margin-right:10px;
 }
 
 .rect{
-    height:190px;
+    height:160px;
     width:100%;
     border-radius: 5px;
     border:1.2px solid #ddd; 
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
 }
 
-.see{
-    font-size:14px;
-}
- 
-.signin{
-    height:20px;
-    width:300px;
-   
-}
-.signin button{
-    font-size: 12px;
-    color:#000;
-    font-weight: 700;
-    background-color: #febd68;
-
-}
-.back{
+/* .back{
     margin-top:-43px;
     background-color: #37475a;
     color:white;
@@ -315,5 +303,5 @@ margin-right:10px;
     align-items: center;
     display: flex;
     font-size:13px;
-}
+} */
  
