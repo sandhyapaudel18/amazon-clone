@@ -430,12 +430,49 @@ flex-direction: column;
     height:69px;
     width:100%;
     background-color:transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+
  }
- 
+
  .amalogo{
- height:40px;
- width:200px;
- background-image: url(./amazon_logo.png);
+ height:60px;
+ width:100px;
+
  }
- 
+ .amalogo img{
+    height:60px;
+    width:100px;
+ }
+ .containerss{
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+ }
+ .amazon2{
+    height:33px;
+    width:117px;
+    border-radius: 2px;
+    border:1px solid white;
+    opacity:0.6;
+ }
+ .amazon3{
+    height:35px;
+    width:159px;
+    border-radius: 2px;
+    border:1px solid white;
+    opacity:0.6;
+ }
+ .amazon4{
+    height:33px;
+    width:140px;
+    border-radius: 2px;
+    border:1px solid white;
+    opacity:0.6;
+ }
+
+
 
