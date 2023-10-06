@@ -453,21 +453,33 @@ flex-direction: column;
     gap:4px;
  }
  .amazon2{
-    height:33px;
+    height:32px;
     width:117px;
     border-radius: 2px;
     border:1px solid white;
     opacity:0.6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
  }
+ .amazon2 i{
+    color:white;
+
+
+ }
+ 
  .amazon3{
-    height:35px;
-    width:159px;
+    height:32px;
+    width:150px;
     border-radius: 2px;
     border:1px solid white;
     opacity:0.6;
  }
  .amazon4{
-    height:33px;
+    height:32px;
     width:140px;
     border-radius: 2px;
     border:1px solid white;
