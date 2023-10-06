@@ -62,10 +62,6 @@
     border-radius:4px;
 
 }
-/* .navsearch:hover{
-    border:2px solid white;
-} */
-
 
 select{
 background-color:#f3f3f3;
@@ -284,20 +280,14 @@ margin-right:10px;
 .foot1{
     height:200px;
     background-color: white;
-    margin-top: 10px;
-    
-   
+    margin:10px 20px 10px 20px; 
 }
 
 .rect{
-    height:100px;
-    width:1172px;
+    height:190px;
+    width:100%;
     border-radius: 5px;
-    border:1.2px solid #ddd;
-    padding:20px;
-    justify-content: center;
-    display:flex;
-   
+    border:1.2px solid #ddd; 
 }
 
 .see{
@@ -327,6 +317,3 @@ margin-right:10px;
     font-size:13px;
 }
  
-.foot1{
-    background-color:#22f3d ;
-}
