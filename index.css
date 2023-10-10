@@ -489,8 +489,10 @@ flex-direction: column;
 .amazon2 .para{
     color:white;
     opacity:0.7;
+    font-size:13px;
 
 }
+
  .amazon3{
     height:32px;
     width:150px;
@@ -507,6 +509,7 @@ flex-direction: column;
     color:white;
     opacity:0.7;
     font-weight : lighter;
+    font-size:13px;
  }
  .amazon4{
     height:32px;
@@ -525,6 +528,7 @@ flex-direction: column;
  .amazon4 p{
     color:white;
     opacity:0.7;
+    font-size:13px;
  }
 
 
