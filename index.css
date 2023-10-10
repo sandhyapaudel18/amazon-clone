@@ -486,13 +486,10 @@ flex-direction: column;
 
 
  }
- .para {
-   color:white;
-   opacity:1;
- }
- 
+.amazon2 .para{
+    color:white;
 
- 
+}
  .amazon3{
     height:32px;
     width:150px;
