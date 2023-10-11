@@ -537,7 +537,7 @@ flex-direction: column;
     padding:30px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
  }
 
  .blue1 {
@@ -655,7 +655,7 @@ flex-direction: column;
 
 .foot4space{
     height:60px;
-    width:25px;
+    width:40px;
     padding:0px 10px;
 }
 
