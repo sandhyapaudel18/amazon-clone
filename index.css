@@ -571,8 +571,8 @@ flex-direction: column;
     
  }
  .blue2 #bl2{
-   height:26px;
-   width:85px;
+   height:39px;
+   width:95px;
     color:#999999;
     font-size: 12px;
  }
@@ -591,7 +591,7 @@ flex-direction: column;
  }
  .blue3 #bl2{
    height:26px;
-   width:85px;
+   width:97px;
     color:#999999;
     font-size: 12px;
  }
@@ -609,7 +609,7 @@ flex-direction: column;
  }
  .blue4 #bl2{
    height:26px;
-   width:85px;
+   width:72px;
     color:#999999;
     font-size: 12px;
  }
@@ -627,7 +627,7 @@ flex-direction: column;
  }
  .blue5 #bl2{
    height:26px;
-   width:85px;
+   width:119px;
     color:#999999;
     font-size: 12px;
  }
@@ -639,14 +639,13 @@ flex-direction: column;
     flex-direction: column;
  }
  .blue6 #bl1{
-   width:
     color:#f8f9fa;
     font-size: 12px;
     
  }
  .blue6 #bl2{
    height:26px;
-   width:85px;
+   width:87px;
     color:#999999;
     font-size: 12px;
  }
@@ -664,7 +663,7 @@ flex-direction: column;
  }
  .blue7 #bl2{
    height:26px;
-   width:85px;
+   width:79px;
     color:#999999;
     font-size: 12px;
  }
