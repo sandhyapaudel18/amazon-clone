@@ -639,6 +639,7 @@ flex-direction: column;
     flex-direction: column;
  }
  .blue6 #bl1{
+    width:100px;
     color:#f8f9fa;
     font-size: 12px;
     
@@ -657,8 +658,8 @@ flex-direction: column;
     flex-direction: column;
  }
  .blue7 #bl1{
-    height:26px;
-    width:70px;
+
+    width:100px;
     color:#f8f9fa;
     font-size: 12px;
     
